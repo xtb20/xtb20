@@ -30,7 +30,7 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 
 | Project | What you'll find |
 | :--- | :--- |
-| **[DNAVi](https://github.com/xtb20/DNAVi)** | A VR-based immersive experience. |
+| **[DNAVi](https://github.com/xtb20/DNAVi)** |Unity/C# virtual reality prototype for exploring spatial navigation and memory in a simulated hospital, featuring immediate and delayed route-recall trials, navigation performance metrics, and head-gaze tracking.|
 | **[Scripted Magazines](https://github.com/xtb20/Scripted-Magazines-maybe-add)** | A pre-alpha S.T.A.L.K.E.R. GAMMA mod that matches weapon magazine models to the attached magazine using scripted attachments. |
 | **[Anomaly Armor Attachments](https://github.com/xtb20/anomaly-armor-attachments)** | Additional game-modding repository. Browse the source and assets for details. |
 
