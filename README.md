@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm xtb20 👋
+# Hi, I'm Thelonious Brown 👋
 ### Cybersecurity · AI tools · Software projects
 
 Building tools for traffic analysis, security investigations, and AI-assisted workflows — alongside VR experiments and game mods.
@@ -18,12 +18,12 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 | **[Network Scanner and Analyzer](https://github.com/xtb20/Network-Scanner-and-Analyzer)** | Python and Scapy packet inspection with live capture, PCAP replay, suspicious-pattern detection, and JSONL or PostgreSQL output. |
 | **[Honeypot Investigator](https://github.com/xtb20/honeypot-investigator)** | A local Cowrie CSV importer and Streamlit investigation interface for exploring sessions, backed by SQLite. |
 | **[Organization Security Plan](https://github.com/xtb20/Organization-Security-Plan)** | Security policy documentation covering risk categorization, data classification, access, privacy, and acceptable use, referencing NIST SP 800-171 and CMMC. |
+| **[Local AI Pentesting Harness](https://github.com/xtb20/Local_AI_Pentesting_Harness)** | A C++17 shell for Windows and Linux with OpenAI-compatible cloud/local model connections, JSON interpretation, and selectable tool guides. Model responses are displayed, not automatically executed. |
 
 ## 🤖 AI & application development
 
 | Project | What you'll find |
 | :--- | :--- |
-| **[Local AI Pentesting Harness](https://github.com/xtb20/Local_AI_Pentesting_Harness)** | A C++17 shell for Windows and Linux with OpenAI-compatible cloud/local model connections, JSON interpretation, and selectable tool guides. Model responses are displayed, not automatically executed. |
 | **[TranslatorAPI](https://github.com/xtb20/TranslatorAPI)** | A FastAPI upload service and processing-worker foundation for an OCR/translation workflow. Model inference integration remains in development. |
 
 ## 🥽 VR & game modding
