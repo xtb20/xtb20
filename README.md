@@ -9,7 +9,7 @@
 
 Building tools for traffic analysis, security investigations, and AI-assisted workflows — alongside VR experiments and game mods.
 
-[Explore my projects](#️-security--networking) · [All repositories](https://github.com/xtb20?tab=repositories)
+[Explore my projects](#️-security--networking) · [All repositories](https://github.com/xtb20?tab=repositories) · [Hugging Face](https://huggingface.co/xtb20)
 
 </div>
 
@@ -31,6 +31,14 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 | Project | What you'll find |
 | :--- | :--- |
 | **[TranslatorAPI](https://github.com/xtb20/TranslatorAPI)** | A FastAPI upload service and processing-worker foundation for an OCR/translation workflow. Model inference integration remains in development. |
+
+## 🤗 Hugging Face model & datasets
+
+| Resource | What you'll find |
+| :--- | :--- |
+| **[Qwen-3.5-9b-Cyber](https://huggingface.co/xtb20/Qwen-3.5-9b-Cyber)** | Model project in development. Repository created; model weights and a model card are not yet published. |
+| **[nmap_stuff — Security Tool Interpretation](https://huggingface.co/datasets/xtb20/nmap_stuff)** | 866,000 synthetic instruction-response examples for fine-tuning experiments on security-tool output and HTTP/JSON interpretation, covering Nmap, SearchSploit, Nessus, ffuf, Burp Suite, and curl. Distributed as an Excel workbook; domain review is pending. |
+| **[SecurityToolUse](https://huggingface.co/datasets/xtb20/SecurityToolUse)** | Security training data distributed as a UTF-8 CSV, with the published file labeled as Qwen format and 866,000 rows. |
 
 ## 🥽 VR & game modding
 
