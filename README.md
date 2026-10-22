@@ -34,23 +34,7 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 | **[Scripted Magazines](https://github.com/xtb20/Scripted-Magazines-maybe-add)** | A pre-alpha S.T.A.L.K.E.R. GAMMA mod that matches weapon magazine models to the attached magazine using scripted attachments. |
 | **[Anomaly Armor Attachments](https://github.com/xtb20/anomaly-armor-attachments)** | Additional game-modding repository. Browse the source and assets for details. |
 
-## 🧪 Labs & project spaces
 
-These repositories are currently empty; links are included here as part of my complete project collection.
-
-| Repository | Project space |
-| :--- | :--- |
-| [SOC Investigation](https://github.com/xtb20/SOC-Investigation) | SOC investigation |
-| [Azure Entra ID Case Study](https://github.com/xtb20/Azure-Entra-ID-Case-Study) | Identity and access case study |
-| [Home Firewall](https://github.com/xtb20/Home-Firewall) | Home firewall |
-| [Homelab Setup](https://github.com/xtb20/Homelab-Setup) | Homelab |
-| [CoolProject29228](https://github.com/xtb20/CoolProject29228) | Project workspace |
-| [xtb20.github.io](https://github.com/xtb20/xtb20.github.io) | GitHub Pages repository |
-
-## 📚 Coursework
-
-**[CSCE1015 — Spring 2025](https://github.com/xtb20/CSCE1015_S2025)**  
-Version-control coursework and Git practice.
 
 ---
 
