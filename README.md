@@ -36,7 +36,7 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 
 | Resource | What you'll find |
 | :--- | :--- |
-| **[Qwen-3.5-9b-Cyber](https://huggingface.co/xtb20/Qwen-3.5-9b-Cyber)** | Model project in development. Repository created; model weights and a model card are not yet published. |
+| **[Qwen-3.5-9b-Cyber](https://huggingface.co/xtb20/Qwen-3.5-9b-Cyber)** | Completed cybersecurity model based on Qwen 3.5 9B, fine-tuned using my [nmap_stuff](https://huggingface.co/datasets/xtb20/nmap_stuff) and [SecurityToolUse](https://huggingface.co/datasets/xtb20/SecurityToolUse) datasets for security-tool output interpretation. Model upload to Hugging Face is in progress. |
 | **[nmap_stuff — Security Tool Interpretation](https://huggingface.co/datasets/xtb20/nmap_stuff)** | 866,000 synthetic instruction-response examples for fine-tuning experiments on security-tool output and HTTP/JSON interpretation, covering Nmap, SearchSploit, Nessus, ffuf, Burp Suite, and curl. Distributed as an Excel workbook; domain review is pending. |
 | **[SecurityToolUse](https://huggingface.co/datasets/xtb20/SecurityToolUse)** | Security training data distributed as a UTF-8 CSV, with the published file labeled as Qwen format and 866,000 rows. |
 
