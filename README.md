@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Thelonious Brown 👋
+# Thelonious Brown
 
 **CompTIA Security+ · ISC2 Certified in Cybersecurity (CC) · EC-Council Digital Forensics Essentials (D|FE)**
 
