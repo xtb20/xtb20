@@ -5,7 +5,7 @@
 
 Building tools for traffic analysis, security investigations, and AI-assisted workflows — alongside VR experiments and game mods.
 
-[Explore my projects](#-security--networking) · [All repositories](https://github.com/xtb20?tab=repositories)
+[Explore my projects](#️-security--networking) · [All repositories](https://github.com/xtb20?tab=repositories)
 
 </div>
 
