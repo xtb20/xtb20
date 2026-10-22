@@ -19,6 +19,8 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 
 | Project | What you'll find |
 | :--- | :--- |
+| **[CVE-RAG](https://github.com/xtb20/CVE-RAG)** | Local vulnerability research over NVD CVE data using Node.js, SQLite FTS5/BM25 retrieval, and llama.cpp to generate answers with source records. Supports NVD API sync and offline JSON imports. |
+| **[Azure Guardrail — Azure Security Assessment](https://github.com/xtb20/Azure-Guardrail-catch-risky-Terraform-settings-before-they-reach-the-cloud)** | Python tool that assesses Azure Terraform plans before deployment, flagging risky storage account settings with severity, explanations, and safer configuration suggestions. Runs locally without Azure credentials. |
 | **[Network Scanner and Analyzer](https://github.com/xtb20/Network-Scanner-and-Analyzer)** | Python and Scapy packet inspection with live capture, PCAP replay, suspicious-pattern detection, and JSONL or PostgreSQL output. |
 | **[Honeypot Investigator](https://github.com/xtb20/honeypot-investigator)** | A local Cowrie CSV importer and Streamlit investigation interface for exploring sessions, backed by SQLite. |
 | **[Organization Security Plan](https://github.com/xtb20/Organization-Security-Plan)** | Security policy documentation covering risk categorization, data classification, access, privacy, and acceptable use, referencing NIST SP 800-171 and CMMC. |
@@ -43,7 +45,7 @@ Building tools for traffic analysis, security investigations, and AI-assisted wo
 
 ### Technologies across my projects
 
-**Python · C++17 · Scapy · FastAPI · Streamlit · SQLite · PostgreSQL · CMake**
+**Python · JavaScript / Node.js · C++17 · Scapy · FastAPI · Streamlit · SQLite / FTS5 · PostgreSQL · llama.cpp · Terraform · CMake**
 
-<sub>This profile links to all 15 public project repositories reviewed on October 22, 2026. Project status and implementation details are documented in each repository.</sub>
+<sub>Selected projects, updated October 22, 2026. Project status and implementation details are documented in each repository.</sub>
 
