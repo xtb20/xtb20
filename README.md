@@ -4,7 +4,6 @@
 
 **CompTIA Security+ · ISC2 Certified in Cybersecurity (CC) · EC-Council Digital Forensics Essentials (D|FE)**
 
-**NSA / DHS CAE-CD**: Cyber Defense Academic Certificate
 ### Software Engineer · Cybersecurity · AI tools · Cloud Infrastructure
 
 Building tools for traffic analysis, security investigations, and AI-assisted workflows — alongside VR experiments and game mods.
